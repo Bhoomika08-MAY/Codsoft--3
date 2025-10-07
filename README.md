@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Movie Genre Classification
 
 Predict the genre of a movie based on its plot summary using machine learning. This project demonstrates a complete ML pipeline — from data preprocessing to model deployment — wrapped in a user-friendly Streamlit interface.
@@ -27,3 +28,7 @@ Predict the genre of a movie based on its plot summary using machine learning. T
      -predict_test_data.py
      -train_model.py
 
+=======
+# Codsoft--3
+Movie_genre_classification
+>>>>>>> 801ad53c1284792dca15d09d8b50a4d4baff4704
